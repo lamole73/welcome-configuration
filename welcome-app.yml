@@ -1,2 +1,4 @@
 spring.application.name: welcome-app
 
+welcome
+  currentenv: WELCOME Environment (master branch)
