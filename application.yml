@@ -1,0 +1,9 @@
+var.environment.prefix: welcome
+
+server:
+  port: 8080
+
+logging:
+  level:
+    org.springframework: INFO
+
